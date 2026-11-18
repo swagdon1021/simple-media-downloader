@@ -74,9 +74,6 @@ No. The app is simply not code-signed (signing certificates cost money). Click *
 **A site stopped working. Why?**
 Video sites change their pages often. Check the Releases page for a newer version, which ships an updated yt-dlp.
 
-**Can I see the source code?**
-The app is free to use, but the source code is not public.
-
 ## License
 
 MIT License. The app bundles [yt-dlp](https://github.com/yt-dlp/yt-dlp) and [ffmpeg](https://ffmpeg.org/), which remain under their own licenses.
